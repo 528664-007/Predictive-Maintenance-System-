@@ -467,6 +467,15 @@ Contributions are welcome! Here's how:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+## Output
+
+<img width="1864" height="928" alt="Opera Snapshot_2026-06-29_185247_localhost" src="https://github.com/user-attachments/assets/92513da5-0ffb-4715-a039-5e1ac72c5669" />
+<img width="1452" height="765" alt="Opera Snapshot_2026-06-29_185311_localhost" src="https://github.com/user-attachments/assets/6e14fa2e-836a-4f38-8f0d-579895ba8f09" />
+<img width="1851" height="901" alt="Screenshot 2026-06-29 185221" src="https://github.com/user-attachments/assets/3522b00b-9e72-4040-a5e0-5a127dd59627" />
+<img width="1895" height="816" alt="Screenshot 2026-06-29 185231" src="https://github.com/user-attachments/assets/a8ab64dc-d1c8-44ad-b461-cee577b00047" />
+<img width="1809" height="698" alt="Screenshot 2026-06-29 185238" src="https://github.com/user-attachments/assets/58e60988-8338-488d-9451-2d2ec34dd9bf" />
+
+---
 
 ## 📞 Contact
 
