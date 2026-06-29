@@ -237,7 +237,7 @@ python main.py --mode all
 
 
 # Clone repository
-git clone https://github.com/528664-007/predictive-maintenance.git
+git clone [https://github.com/528664-007/predictive-maintenance.git](https://github.com/528664-007/Predictive-Maintenance-System-/blob/main)
 cd predictive-maintenance
 
 # Create and activate virtual environment
